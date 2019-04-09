@@ -1,0 +1,131 @@
+{
+    "items": [{
+            "sys": {
+                "id": "1"
+            },
+            "fields": {
+                "title": "queen panel bed",
+                "price": 10.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "2"
+            },
+            "fields": {
+                "title": "king panel bed",
+                "price": 12.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "3"
+            },
+            "fields": {
+                "title": "single panel bed",
+                "price": 12.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/34676/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "4"
+            },
+            "fields": {
+                "title": "twin panel bed",
+                "price": 22.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "5"
+            },
+            "fields": {
+                "title": "fridge",
+                "price": 88.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/693859/pexels-photo-693859.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "6"
+            },
+            "fields": {
+                "title": "dresser",
+                "price": 32.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/574070/pexels-photo-574070.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "7"
+            },
+            "fields": {
+                "title": "couch",
+                "price": 45.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/106344/pexels-photo-106344.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        },
+        {
+            "sys": {
+                "id": "8"
+            },
+            "fields": {
+                "title": "table",
+                "price": 33.99,
+                "image": {
+                    "fields": {
+                        "file": {
+                            "url": "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+                        }
+                    }
+                }
+            }
+        }
+    ]
+}
